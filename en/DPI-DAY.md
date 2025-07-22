@@ -10,9 +10,6 @@
 
 The event was opened by **Moritz Carl** from the UN Office, who welcomed attendees and outlined the interactive program for the day. This was followed by a series of high-level keynote speeches.
 
-
-Omar Mohsine
-
 #### **Amandeep Singh Gill - UN Under-Secretary-General and Special Envoy**
 *   **Core Message:** DPI is a powerful, architected collaboration built on open-source principles that can achieve massive scale for public good without ruling out profit.
 *   **Key Examples of DPI Success:**
@@ -21,7 +18,7 @@ Omar Mohsine
     *   **Brazil:** The PIX payments platform delivered over $5.7 billion in savings in its first year.
     *   **Kazakhstan:** A comprehensive digital family card system ensures no family in need is left behind.
 *   **Critical Theme:** Trust is essential for DPI adoption. This requires building in safeguards and human rights protections "by design," not as an afterthought.
-*   **Future Focus:** Interoperability, the interface of DPI with AI, and experience sharing are crucial next steps.
+*   **Future Focus:** key next steps include ensuring interoperability, strengthening the interface between DPI and AI, and promoting experience sharing
 
 #### **H.E. Minister Sigmund Freund - Dominican Republic**
 *   **Core Message:** DPI is a test of values, designed to make the state more agile, accountable, and human. The Dominican Republic is choosing to build internal public sector capacity rather than relying on external consultants.
@@ -69,20 +66,9 @@ Key questions from the audience focused on:
 
 ---
 
-### **4. Conclusion & Next Steps**
+The morning session concluded with instructions for six co-creative breakout sessions on topics like safeguards, financing, and AI. The main goal of these sessions was to develop concrete **"calls to action"** to be presented at the **Global DPI Summit in South Africa in November 2024**, directly shaping the global agenda.The second half of DPI Day focused on sharing the outcomes of the co-creation breakout sessions and a deep-dive panel on DPI implementation in Africa. The key objective was to synthesize discussions into actionable insights and calls to action for the upcoming Global DPI Summit.
 
-The session concluded with instructions for six co-creative breakout sessions on topics like safeguards, financing, and AI. The main goal of these sessions was to develop concrete **"calls to action"** to be presented at the **Global DPI Summit in South Africa in November 2024**, directly shaping the global agenda.
-
-
-Of course. Here is a structured summary of the second half of the DPI Day session from the provided transcript.
-
-### **Event Overview (Part 2)**
-
-The second half of DPI Day focused on sharing the outcomes of the co-creation breakout sessions and a deep-dive panel on DPI implementation in Africa. The key objective was to synthesize discussions into actionable insights and calls to action for the upcoming Global DPI Summit.
-
----
-
-### **1. Message from the International Telecommunications Union (ITU)**
+### **4. Message from the International Telecommunications Union (ITU)**
 
 A video message from **Thomas Lamanaskus, Deputy Secretary-General of the ITU**, highlighted the agency's commitment to open source as a vital enabler of DPI.
 
@@ -94,9 +80,9 @@ A video message from **Thomas Lamanaskus, Deputy Secretary-General of the ITU**,
 
 ---
 
-### **2. Breakout Session Share-Outs**
+### **5. Breakout Session Share-Outs**
 
-This segment, moderated by **Ora from Codevelop**, featured organizers and participants reporting back on the key discussions and "calls to action" from each of the six breakout sessions.
+This segment, moderated by **Aura from Codevelop**, featured organizers and participants reporting back on the key discussions and "calls to action" from each of the six breakout sessions.
 
 | Breakout Session Topic | Key Discussion Points | Call(s) to Action |
 | :--- | :--- | :--- |
@@ -109,7 +95,7 @@ This segment, moderated by **Ora from Codevelop**, featured organizers and parti
 
 ---
 
-### **3. Panel: Empowering DPI Implementation Across Africa**
+### **6. Panel: Empowering DPI Implementation Across Africa**
 
 This panel explored the unique challenges and opportunities for DPI on the African continent.
 
@@ -123,7 +109,7 @@ This panel explored the unique challenges and opportunities for DPI on the Afric
 
 ---
 
-### **4. Closing Remarks**
+### **7. Closing Remarks**
 
 *   **Bernardo Mariano Jr. (UN Assistant Secretary-General, CIO/CTO):** Praised the exponential growth and passion of the open-source community. He reaffirmed the UN's commitment to "walking the talk" by highlighting the new UN open-source policy, principles, and software catalog. He positioned the community as a driving force for solving global problems.
 *   **Amandeep Singh Gill (UN Under-Secretary-General, Tech Envoy):** Thanked the community and co-hosts (Dominican Republic, Nigeria). He noted the value of the ideas generated for the upcoming DPI Summit and reaffirmed the Global Digital Compact as the "North Star" guiding this collective work. He encouraged everyone to stay engaged and provide honest feedback to ensure continuous improvement.

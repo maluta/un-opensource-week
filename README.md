@@ -1,14 +1,12 @@
 ⚞ 🇬🇧 🇺🇸 **English version [here](en/README.md)** ⚟
 
 
-![](https://upload.wikimedia.org/wikipedia/commons/e/ee/UN_emblem_blue.svg | width=50)
+![](https://upload.wikimedia.org/wikipedia/commons/e/ee/UN_emblem_blue.svg)
 
 
 # Notas da UN Open Source Week 2025
 
 Espero que este repositório (que também é um site) possa te inspirar em valores essenciais do universo do código aberto, como a colaboração. Sinta-se à vontade não apenas para ler todo o conteúdo aqui é aberto, versionado e colaborativo.
-
-
 
 ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
 ![License](https://img.shields.io/github/license/maluta/un-open-source-week)
