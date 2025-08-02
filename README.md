@@ -1,7 +1,7 @@
 # ⚞ 🇺🇸 **English version [here](en/README.md)** ⚟
 # ⚞ 🇺🇸 **Versão em português [aqui](pt-br/README.md)** ⚟
 
-![](https://www.un.org/digital-emerging-technologies/sites/www.un.org.digital-emerging-technologies/files/styles/panopoly_image_original/public/pages/Website_Banner_with_Logo_2.png?itok=XMbJWVIl)
+![](https://www.un.org/digital-emerging-technologies/sites/www.un.org.digital-emerging-technologies/files/styles/panopoly_image_original/public/pages/Website_Banner_with_Logo_2.png)
 
 https://www.un.org/digital-emerging-technologies/content/open-source-week-2025
 
