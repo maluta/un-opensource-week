@@ -1,12 +1,15 @@
 # ⚞ 🇺🇸 **English version [here](en/README.md)** ⚟
-# ⚞ 🇺🇸 **Versão em português [aqui](pt-br/README.md)** ⚟
+# ⚞ 🇧🇷 **Versão em português [aqui](pt-br/README.md)** ⚟
 
-![](https://www.un.org/digital-emerging-technologies/sites/www.un.org.digital-emerging-technologies/files/styles/panopoly_image_original/public/pages/Website_Banner_with_Logo_2.png)
 
-https://www.un.org/digital-emerging-technologies/content/open-source-week-2025
+🔗 https://www.un.org/digital-emerging-technologies/content/open-source-week-2025
 
 ## 📄 [LICENSE](./LICENSE) | Licença
 
 This project is licensed under the [Creative Commons Atribuição 4.0 Internacional](https://creativecommons.org/licenses/by/4.0/deed.pt) (CC-BY 4.0)
 
 Este projeto está licenciado sob a Licença [Creative Commons Atribuição 4.0 Internacional](https://creativecommons.org/licenses/by/4.0/deed.pt) (CC-BY 4.0) 
+
+![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
+![License](https://img.shields.io/github/license/maluta/un-open-source-week)
+![Status](https://img.shields.io/badge/status-in%20progress-yellow)
