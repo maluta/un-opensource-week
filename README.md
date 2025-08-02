@@ -1,6 +1,7 @@
 # ⚞ 🇺🇸 **English version [here](en/README.md)** ⚟
 # ⚞ 🇧🇷 **Versão em português [aqui](pt-br/README.md)** ⚟
 
+![](https://github.com/maluta/un-opensource-week/blob/main/assets/img/un_opensource_week_logo.png?raw=true)
 
 🔗 https://www.un.org/digital-emerging-technologies/content/open-source-week-2025
 
